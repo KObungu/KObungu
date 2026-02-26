@@ -23,7 +23,7 @@ My work focuses on data cleaning, exploratory analysis, visualization, and dashb
 Data-driven analysis of crop productivity and population pressure in Karamoja, Uganda.
 
 - 🔗 GitHub Repo: https://github.com/KObungu/Karamoja_Food_Security_Project
-- 📊 Tableau Dashboard: (paste your dashboard link here)
+- 📊 Tableau Dashboard: ([paste your dashboard link here](https://public.tableau.com/app/profile/kelvin.obungu/viz/Karamoja_Dashboard/KaramojaCropYieldFoodSecurityDashboard2017))
 
 ---
 
