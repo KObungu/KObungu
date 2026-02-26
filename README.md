@@ -1,16 +1,57 @@
-## Hi there 👋
+# Kelvin Obungu  
+### Data Analyst | Data Visualization (Python & Tableau) | 
 
-<!--
-**KObungu/KObungu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst passionate about transforming raw data into actionable insights.  
+My work focuses on data cleaning, exploratory analysis, visualization, and dashboard development to support data-driven decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL
+- Tableau Public
+- Data Cleaning & Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Git & GitHub
+
+---
+
+## 📊 Featured Projects
+
+### 🌾 Karamoja Crop Yield & Food Security Analysis
+Data-driven analysis of crop productivity and population pressure in Karamoja, Uganda.
+
+- 🔗 GitHub Repo: https://github.com/KObungu/Karamoja_Food_Security_Project
+- 📊 Tableau Dashboard: (paste your dashboard link here)
+
+---
+
+### 🎬 Microsoft Movie Studio Insights
+Exploratory analysis of box office and genre trends to support strategic business decisions.
+
+- 🔗 GitHub Repo: https://github.com/KObungu/microsoft-movie-studio-insights
+
+---
+
+### 🧼 Data Cleaning & EDA Projects
+Practical projects focused on cleaning messy datasets and extracting insights.
+
+- 🔗 Pandas Cleaning Lab: https://github.com/KObungu/dsc-pandas-data-cleaning-lab
+- 🔗 Data Serialization Lab: https://github.com/KObungu/dsc-data-serialization-lab
+
+---
+
+## 📈 Tableau Dashboards
+
+- Dashboard 1: ([paste link](https://public.tableau.com/app/profile/kelvin.obungu/viz/learn-wb-02-18-2026-KOO/SuperStoreDashboard))
+- Dashboard 2: ([paste link](https://public.tableau.com/app/profile/kelvin.obungu/viz/Karamoja_Dashboard/KaramojaCropYieldFoodSecurityDashboard2017))
+
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (paste LinkedIn link)
+- Tableau Public: (paste profile link)
+- Email: (optional)
