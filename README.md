@@ -8,8 +8,8 @@ My work focuses on data cleaning, exploratory analysis, visualization, and dashb
 
 ## 🛠 Technical Skills
 
-- Python (Pandas, Matplotlib, Seaborn)
-- SQL
+- Python (Numpy ,Pandas, Matplotlib, Seaborn)
+- Excel
 - Tableau Public
 - Data Cleaning & Feature Engineering
 - Exploratory Data Analysis (EDA)
