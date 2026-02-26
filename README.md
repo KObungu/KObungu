@@ -44,14 +44,14 @@ Practical projects focused on cleaning messy datasets and extracting insights.
 
 ## 📈 Tableau Dashboards
 
-- Dashboard 1: ([paste link](https://public.tableau.com/app/profile/kelvin.obungu/viz/learn-wb-02-18-2026-KOO/SuperStoreDashboard))
-- Dashboard 2: ([paste link](https://public.tableau.com/app/profile/kelvin.obungu/viz/Karamoja_Dashboard/KaramojaCropYieldFoodSecurityDashboard2017))
+- Dashboard 1: ([paste link](https://public.tableau.com/app/profile/kelvin.obungu/viz/learn-wb-02-18-2026-KOO/SuperStoreDashboard)
+- Dashboard 2: ([paste link](https://public.tableau.com/app/profile/kelvin.obungu/viz/Karamoja_Dashboard/KaramojaCropYieldFoodSecurityDashboard2017)
 
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: (paste LinkedIn link)
-- Tableau Public: (paste profile link)
-- Email: (optional)
+- LinkedIn: ([paste LinkedIn link](https://www.linkedin.com/in/kelvin-omondi-obungu/)
+- Tableau Public: ([paste profile link](https://public.tableau.com/app/profile/kelvin.obungu/vizzes)
+- Email: (kelvinomondiobungu@gmail.com)
