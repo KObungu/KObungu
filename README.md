@@ -44,7 +44,7 @@ Practical projects focused on cleaning messy datasets and extracting insights.
 
 ## 📈 Tableau Dashboards
 
-- Dashboard 1: [SuperStore Dashboard]([https://public.tableau.com/app/profile/kelvin.obungu/viz/learn-wb-02-18-2026-K00/SuperStoreDashboard](https://public.tableau.com/app/profile/kelvin.obungu/viz/learn-wb-02-18-2026-KOO/SuperStoreDashboard)
+- Dashboard 1: [SuperStore Dashboard](https://public.tableau.com/app/profile/kelvin.obungu/viz/learn-wb-02-18-2026-K00/SuperStoreDashboard)
 
 - Dashboard 2: [Karamoja Crop Yield Dashboard](https://public.tableau.com/app/profile/kelvin.obungu/viz/Karamoja_Dashboard/KaramojaCropYieldFoodSecurityDashboard2017)
 
