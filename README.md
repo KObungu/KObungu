@@ -54,6 +54,8 @@ Practical projects focused on cleaning messy datasets and extracting insights.
 
 ## 📫 Contact
 
-- LinkedIn: ([[paste LinkedIn link](https://www.linkedin.com/in/kelvin-omondi-obungu/)]()
-- Tableau Public: ([[paste profile link](https://public.tableau.com/app/profile/kelvin.obungu/vizzes)](https://public.tableau.com/app/profile/kelvin.obungu/vizzes)
-- Email: (kelvinomondiobungu@gmail.com)
+## 📬 Contact
+
+- LinkedIn: [Kelvin OmonDi Obungu](https://www.linkedin.com/in/kelvin-omondi-obungu/)
+- Tableau Public: [Tableau Profile](https://public.tableau.com/app/profile/kelvin.obungu/vizzes)
+- Email: kelvinomondiobungu@gmail.com
